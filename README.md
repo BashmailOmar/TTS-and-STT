@@ -19,8 +19,7 @@ TTS -->   Text To Speech
 
 يمكنك مشاهدة الـ GIF
 
-![GIF](https://user-images.githubusercontent.com/78684031/124650359-5100b080-dea2-11eb-9056-ef89cce73791.gif)
-
+![GIF](https://user-images.githubusercontent.com/78684031/124778272-86140e00-df49-11eb-95d0-ffbe1d12925c.gif)
 
 -- محتويات الملفات --
 
